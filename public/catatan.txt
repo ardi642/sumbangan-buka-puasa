@@ -1,0 +1,8 @@
+/* format level pertama object kembalian api
+{
+  "success" : true,
+  "message" : null,
+  "data" : null
+}
+
+*/
